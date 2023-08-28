@@ -1,0 +1,25 @@
+{
+  "name": "autocommit-robot",
+  "version": "1.0.0",
+  "description": "by github action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zuowendong/autocommit-robot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zuowendong/autocommit-robot/issues"
+  },
+  "homepage": "https://github.com/Zuowendong/autocommit-robot#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  }
+}
